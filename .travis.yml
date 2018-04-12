@@ -1,6 +1,6 @@
 sudo: required
 
-language: swift
+language: c
 
 services:
   - docker
