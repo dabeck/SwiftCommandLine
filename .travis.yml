@@ -8,6 +8,7 @@ matrix:
         - docker build -t swiftcommandline .
 
     - language: swift
+      osx_image: xcode9.3
       script:
         - swift test
         - swift build
