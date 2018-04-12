@@ -1,4 +1,5 @@
 # SwiftCommandLine
+[![Build Status](https://travis-ci.org/dabeck/SwiftCommandLine.svg?branch=master)](https://travis-ci.org/dabeck/SwiftCommandLine)
 
 This app is just a simple project to demonstrate a solid setup to develop serverside swift applications with CLion.
 
